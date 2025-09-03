@@ -1,6 +1,7 @@
 import yfinance as yf
 
 cac40_tickers = [
+    "^FCHI",     # CAC40 index
     "ACA.PA",   # Crédit Agricole
     "AC.PA",    # Accor
     "AIR.PA",   # Airbus
